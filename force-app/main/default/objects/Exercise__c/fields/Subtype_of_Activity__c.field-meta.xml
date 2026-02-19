@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Subtype_of_Activity__c</fullName>
+    <label>Subtype of Activity</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Type_of_Activity__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Trail Run</fullName>
+                <default>false</default>
+                <label>Trail Run</label>
+            </value>
+            <value>
+                <fullName>Road Run</fullName>
+                <default>false</default>
+                <label>Road Run</label>
+            </value>
+            <value>
+                <fullName>Backpacking</fullName>
+                <default>false</default>
+                <label>Backpacking</label>
+            </value>
+            <value>
+                <fullName>Hike</fullName>
+                <default>false</default>
+                <label>Hike</label>
+            </value>
+            <value>
+                <fullName>Resort Skiing</fullName>
+                <default>false</default>
+                <label>Resort Skiing</label>
+            </value>
+            <value>
+                <fullName>Backcountry Skiing</fullName>
+                <default>false</default>
+                <label>Backcountry Skiing</label>
+            </value>
+            <value>
+                <fullName>Resort Uphilling</fullName>
+                <default>false</default>
+                <label>Resort Uphilling</label>
+            </value>
+            <value>
+                <fullName>Nordic Skiing</fullName>
+                <default>false</default>
+                <label>Nordic Skiing</label>
+            </value>
+            <value>
+                <fullName>Road Ride</fullName>
+                <default>false</default>
+                <label>Road Ride</label>
+            </value>
+            <value>
+                <fullName>Mountain Bike Ride</fullName>
+                <default>false</default>
+                <label>Mountain Bike Ride</label>
+            </value>
+            <value>
+                <fullName>Pool Swim</fullName>
+                <default>false</default>
+                <label>Pool Swim</label>
+            </value>
+            <value>
+                <fullName>Open Water Swim</fullName>
+                <default>false</default>
+                <label>Open Water Swim</label>
+            </value>
+            <value>
+                <fullName>Indoors - Bouldering</fullName>
+                <default>false</default>
+                <label>Indoors - Bouldering</label>
+            </value>
+            <value>
+                <fullName>Indoors - Ropes</fullName>
+                <default>false</default>
+                <label>Indoors - Ropes</label>
+            </value>
+            <value>
+                <fullName>Outdoors - Cragging</fullName>
+                <default>false</default>
+                <label>Outdoors - Cragging</label>
+            </value>
+            <value>
+                <fullName>Outdoors - Multipitch</fullName>
+                <default>false</default>
+                <label>Outdoors - Multipitch</label>
+            </value>
+            <value>
+                <fullName>Outdoors - Bouldering</fullName>
+                <default>false</default>
+                <label>Outdoors - Bouldering</label>
+            </value>
+            <value>
+                <fullName>Treadmill</fullName>
+                <default>false</default>
+                <label>Treadmill</label>
+            </value>
+            <value>
+                <fullName>Exercise Equipment</fullName>
+                <default>false</default>
+                <label>Exercise Equipment</label>
+            </value>
+            <value>
+                <fullName>Free Weights</fullName>
+                <default>false</default>
+                <label>Free Weights</label>
+            </value>
+            <value>
+                <fullName>Mountaineering</fullName>
+                <default>false</default>
+                <label>Mountaineering</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Run</controllingFieldValue>
+            <valueName>Trail Run</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Run</controllingFieldValue>
+            <valueName>Road Run</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Run</controllingFieldValue>
+            <valueName>Treadmill</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Hike</controllingFieldValue>
+            <valueName>Backpacking</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Hike</controllingFieldValue>
+            <valueName>Hike</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Hike</controllingFieldValue>
+            <valueName>Mountaineering</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Ski</controllingFieldValue>
+            <valueName>Resort Skiing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Ski</controllingFieldValue>
+            <valueName>Backcountry Skiing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Ski</controllingFieldValue>
+            <valueName>Resort Uphilling</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Ski</controllingFieldValue>
+            <valueName>Nordic Skiing</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Climb</controllingFieldValue>
+            <valueName>Indoors - Bouldering</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Climb</controllingFieldValue>
+            <valueName>Indoors - Ropes</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Climb</controllingFieldValue>
+            <valueName>Outdoors - Cragging</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Climb</controllingFieldValue>
+            <valueName>Outdoors - Multipitch</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Climb</controllingFieldValue>
+            <valueName>Outdoors - Bouldering</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bike</controllingFieldValue>
+            <valueName>Road Ride</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Bike</controllingFieldValue>
+            <valueName>Mountain Bike Ride</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Swim</controllingFieldValue>
+            <valueName>Pool Swim</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Swim</controllingFieldValue>
+            <valueName>Open Water Swim</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gym</controllingFieldValue>
+            <valueName>Exercise Equipment</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gym</controllingFieldValue>
+            <valueName>Free Weights</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

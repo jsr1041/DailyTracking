@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Dinner --></label>
+    <name>Dinner__c</name>
+    <picklistValues>
+        <masterLabel>Cook - Frozen Food</masterLabel>
+        <translation><!-- Cook - Frozen Food --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cook - Recipe</masterLabel>
+        <translation><!-- Cook - Recipe --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Eat Out - Fast Food</masterLabel>
+        <translation><!-- Eat Out - Fast Food --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Eat Out - Restuarant</masterLabel>
+        <translation><!-- Eat Out - Restuarant --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Leftovers</masterLabel>
+        <translation><!-- Leftovers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>None</masterLabel>
+        <translation><!-- None --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

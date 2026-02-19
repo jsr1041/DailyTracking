@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Completed_Day__c</fullName>
+    <formula>IF(
+					AND(
+									Daily_Points_Scored__c  != 0,
+									Total_Daily_Points__c != 0,
+									NOT(ISNULL(Daily_Alcoholic_Drinks_Drank__c)),
+									NOT(ISNULL(Daily_Liters_of_Water_Drank__c)),
+									NOT(ISNULL(Screen_Time__c)),
+									NOT(ISNULL(Sleep_Time__c)),
+					    NOT(ISNULL(Daily_Steps__c)), 
+									NOT(ISNULL(Daily_Pushups__c))
+					    ), 
+					TRUE, 
+					FALSE)</formula>
+    <label>Completed Day</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

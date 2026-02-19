@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Lunch --></label>
+    <name>Lunch__c</name>
+    <picklistValues>
+        <masterLabel>Cook</masterLabel>
+        <translation><!-- Cook --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Eat Out - Fast Food</masterLabel>
+        <translation><!-- Eat Out - Fast Food --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Eat Out - Restuarant</masterLabel>
+        <translation><!-- Eat Out - Restuarant --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Leftovers</masterLabel>
+        <translation><!-- Leftovers --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>None</masterLabel>
+        <translation><!-- None --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Snack / Binge Eat</masterLabel>
+        <translation><!-- Snack / Binge Eat --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

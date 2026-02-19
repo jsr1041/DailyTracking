@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type of Activity --></label>
+    <name>Type_of_Activity__c</name>
+    <picklistValues>
+        <masterLabel>Bike</masterLabel>
+        <translation><!-- Bike --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Climb</masterLabel>
+        <translation><!-- Climb --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Gym</masterLabel>
+        <translation><!-- Gym --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hike</masterLabel>
+        <translation><!-- Hike --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Rowing</masterLabel>
+        <translation><!-- Rowing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Run</masterLabel>
+        <translation><!-- Run --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Ski</masterLabel>
+        <translation><!-- Ski --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Swim</masterLabel>
+        <translation><!-- Swim --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Walk</masterLabel>
+        <translation><!-- Walk --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

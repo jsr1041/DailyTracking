@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Week_c__c</fullName>
+    <externalDeveloperName>Week__c</externalDeveloperName>
+    <isFilteringDisabled>false</isFilteringDisabled>
+    <isNameField>false</isNameField>
+    <isSortingDisabled>false</isSortingDisabled>
+    <label>Week</label>
+    <length>18</length>
+    <referenceTargetField>Week__c.External_Week_SFID__c</referenceTargetField>
+    <referenceTo>Week__c</referenceTo>
+    <relationshipLabel>Exercise (External Record)</relationshipLabel>
+    <relationshipName>Exercise_outside</relationshipName>
+    <type>IndirectLookup</type>
+</CustomField>

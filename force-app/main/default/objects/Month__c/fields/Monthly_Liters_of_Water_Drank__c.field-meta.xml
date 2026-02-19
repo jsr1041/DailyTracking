@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Monthly_Liters_of_Water_Drank__c</fullName>
+    <label>Monthly Liters of Water Drank</label>
+    <summarizedField>Day__c.Daily_Liters_of_Water_Drank__c</summarizedField>
+    <summaryForeignKey>Day__c.Month__c</summaryForeignKey>
+    <summaryOperation>sum</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

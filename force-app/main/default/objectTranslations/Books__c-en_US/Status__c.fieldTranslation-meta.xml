@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Status --></label>
+    <name>Status__c</name>
+    <picklistValues>
+        <masterLabel>Currently Reading</masterLabel>
+        <translation><!-- Currently Reading --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Finished</masterLabel>
+        <translation><!-- Finished --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Started, Not Finished</masterLabel>
+        <translation><!-- Started, Not Finished --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Want to Read</masterLabel>
+        <translation><!-- Want to Read --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

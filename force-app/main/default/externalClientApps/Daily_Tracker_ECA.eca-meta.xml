@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalClientApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>johnsradcliffe@gmail.com</contactEmail>
+    <distributionState>Local</distributionState>
+    <isProtected>false</isProtected>
+    <label>Daily Tracker ECA</label>
+    <orgScopedExternalApp>00DHr000002hzQG:Daily_Tracker_ECA</orgScopedExternalApp>
+</ExternalClientApplication>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Staging Day</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Staging Day</value>
+    </caseValues>
+    <layouts>
+        <layout>Staging Day Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Nutrition --></label>
+            <section>Nutrition</section>
+        </sections>
+        <sections>
+            <label><!-- Overview --></label>
+            <section>Overview</section>
+        </sections>
+    </layouts>
+    <quickActions>
+        <label><!-- Promote to Day 2 --></label>
+        <name>Promote_to_Day_2</name>
+    </quickActions>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

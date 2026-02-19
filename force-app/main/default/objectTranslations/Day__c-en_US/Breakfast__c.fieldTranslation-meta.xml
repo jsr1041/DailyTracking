@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Breakfast --></label>
+    <name>Breakfast__c</name>
+    <picklistValues>
+        <masterLabel>Bagel</masterLabel>
+        <translation><!-- Bagel --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Burrito</masterLabel>
+        <translation><!-- Burrito --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Cereal</masterLabel>
+        <translation><!-- Cereal --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>None</masterLabel>
+        <translation><!-- None --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Other</masterLabel>
+        <translation><!-- Other --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Smoothie</masterLabel>
+        <translation><!-- Smoothie --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Yogurt</masterLabel>
+        <translation><!-- Yogurt --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>NAME</columns>
+    <columns>Date__c</columns>
+    <columns>Week__c</columns>
+    <columns>Type_of_Activity__c</columns>
+    <columns>Subtype_of_Activity__c</columns>
+    <columns>Distance_Miles__c</columns>
+    <columns>Duration_Minutes__c</columns>
+    <columns>Elevation_Gain_Feet__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All</label>
+</ListView>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Subtype of Activity --></label>
+    <name>Subtype_of_Activity__c</name>
+    <picklistValues>
+        <masterLabel>Backcountry Skiing</masterLabel>
+        <translation><!-- Backcountry Skiing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Backpacking</masterLabel>
+        <translation><!-- Backpacking --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Exercise Equipment</masterLabel>
+        <translation><!-- Exercise Equipment --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Free Weights</masterLabel>
+        <translation><!-- Free Weights --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hike</masterLabel>
+        <translation><!-- Hike --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Indoors - Bouldering</masterLabel>
+        <translation><!-- Indoors - Bouldering --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Indoors - Ropes</masterLabel>
+        <translation><!-- Indoors - Ropes --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mountain Bike Ride</masterLabel>
+        <translation><!-- Mountain Bike Ride --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Mountaineering</masterLabel>
+        <translation><!-- Mountaineering --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Nordic Skiing</masterLabel>
+        <translation><!-- Nordic Skiing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Open Water Swim</masterLabel>
+        <translation><!-- Open Water Swim --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Outdoors - Bouldering</masterLabel>
+        <translation><!-- Outdoors - Bouldering --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Outdoors - Cragging</masterLabel>
+        <translation><!-- Outdoors - Cragging --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Outdoors - Multipitch</masterLabel>
+        <translation><!-- Outdoors - Multipitch --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pool Swim</masterLabel>
+        <translation><!-- Pool Swim --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Resort Skiing</masterLabel>
+        <translation><!-- Resort Skiing --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Resort Uphilling</masterLabel>
+        <translation><!-- Resort Uphilling --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Road Ride</masterLabel>
+        <translation><!-- Road Ride --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Road Run</masterLabel>
+        <translation><!-- Road Run --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Trail Run</masterLabel>
+        <translation><!-- Trail Run --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Treadmill</masterLabel>
+        <translation><!-- Treadmill --></translation>
+    </picklistValues>
+</CustomFieldTranslation>
